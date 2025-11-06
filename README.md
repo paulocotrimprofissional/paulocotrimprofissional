@@ -38,7 +38,16 @@
 ---
 
 ### 🧠 Sobre mim
-Sou um entusiasta da tecnologia, em constante aprendizado, buscando unir **design** e **funcionalidade** para criar experiências digitais mais humanas e acessíveis.  
+Bem-vindo ao meu perfil!
+Sou Paulo César Cotrim, profissional administrativo apaixonado por Tecnologia, Python e Automação de Processos. 🚀
+
+Tenho um olhar estratégico voltado para a inovação e otimização de rotinas, buscando constantemente unir minha experiência administrativa com soluções digitais inteligentes.
+Atualmente, me dedico ao desenvolvimento web e à automação de fluxos de trabalho, explorando linguagens como HTML, CSS, JavaScript e Python.
+
+Acredito que a tecnologia é uma poderosa aliada na transformação de ideias em resultados reais — e meu propósito é construir soluções que simplifiquem processos, gerem valor e impactem positivamente pessoas e empresas. 💡
+
+Sou movido por aprendizado contínuo, colaboração e o desejo de aprimorar cada projeto em que coloco as mãos.
+Sempre aberto a novos desafios, conexões e oportunidades de evolução profissional. 🤝
 
 ---
 
