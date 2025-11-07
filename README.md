@@ -54,6 +54,7 @@ Sempre aberto a novos desafios, conexões e oportunidades de evolução profissi
 ### 🌐 Links
 - 💼 [Meu Portfólio](https://paulorj33.github.io/atividade4-esperanca-viva/)
 - 🔗 [Repositório do Projeto Esperança Viva](https://github.com/paulorj33/atividade4-esperanca-viva)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulocotrimprofissional)
 
 ---
 
