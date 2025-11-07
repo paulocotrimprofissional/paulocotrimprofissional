@@ -1,5 +1,5 @@
 <!-- 🌙 Tema escuro com azul leitoso personalizado -->
-<h1 align="center">👋 Olá, eu sou o Paulo!</h1>
+<h1 align="center">👋 Olá, eu sou o Paulo Cotrim!</h1>
 
 <p align="center">
   <em>💻 Apaixonado por tecnologia, design e desenvolvimento web.</em>
@@ -11,8 +11,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=paulorj33&show_icons=true&theme=github_dark&title_color=9ecbff&text_color=c8d7e1&icon_color=9ecbff&hide_border=true" 
-    alt="Estatísticas do GitHub de Paulo"
+    src="https://github-readme-stats.vercel.app/api?username=paulocotrimprofissional&show_icons=true&theme=github_dark&title_color=9ecbff&text_color=c8d7e1&icon_color=9ecbff&hide_border=true" 
+    alt="Estatísticas do GitHub de Paulo Cotrim"
   />
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=paulorj33&bg_color=0d1117&color=9ecbff&line=4fa3ff&point=9ecbff&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=paulocotrimprofissional&bg_color=0d1117&color=9ecbff&line=4fa3ff&point=9ecbff&area=true&hide_border=true" 
     alt="Gráfico de contribuições"
   />
 </p>
@@ -52,12 +52,11 @@ Sempre aberto a novos desafios, conexões e oportunidades de evolução profissi
 ---
 
 ### 🌐 Links
-- 💼 [Meu Portfólio](https://paulorj33.github.io/atividade4-esperanca-viva/)
-- 🔗 [Repositório do Projeto Esperança Viva](https://github.com/paulorj33/atividade4-esperanca-viva)
+- 🔗 [Meu Primeiro Site](https://paulocotrimprofissional.github.io/atividade4-esperanca-viva/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulocotrimprofissional)
 
 ---
 
 <p align="center">
-  Feito com 💙 por <strong>Paulo</strong> — inspirado pela vontade de aprender sempre.
+  Feito com 💙 por <strong>Paulo Cotrim</strong> — inspirado pela vontade de aprender sempre.
 </p>
